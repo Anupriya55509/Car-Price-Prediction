@@ -2,4 +2,4 @@
 
 
 
-![image](screenshots/car-price-prediction.png.png)
+![car-price-prediction](screenshots/car-price-prediction.png.png)
