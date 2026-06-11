@@ -1,3 +1,4 @@
 ﻿# Car_Price_Predictions
+![## Screenshot
 
-(screenshots/car-price-prediction.png.png)
+![Project Screenshot](screenshots/car-price-prediction.png.png)
