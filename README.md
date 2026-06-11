@@ -1,5 +1,3 @@
 ﻿# Car_Price_Predictions
 
-## Project Screenshot
-
-![Home Page](screenshots/car-price-prediction.png.png)
+(screenshots/car-price-prediction.png.png)
