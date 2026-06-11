@@ -1,3 +1,3 @@
 ﻿# Car_Price_Predictions
 
-![Project Screenshots](screenshots/car-price-prediction.png.png)
+![image](https://github.com/Anupriya55509/car-price-prediction.git)
