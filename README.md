@@ -150,7 +150,7 @@ The project highlights the complete machine learning lifecycle, from data prepro
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 **Anupriya Kumari Singh**
 
