@@ -151,7 +151,8 @@ The project highlights the complete machine learning lifecycle, from data prepro
 ---
 
 👩‍💻 Author
-Anupriya Kumari Singh
+
+**Anupriya Kumari Singh**
 
 B.Tech Computer Science Engineering Student
 
