@@ -71,4 +71,4 @@ The trained Random Forest model and scaler are stored separately and loaded usin
 This project demonstrates the practical implementation of Machine Learning and Python GUI development for solving real-world vehicle pricing problems. By integrating data analysis, feature engineering, Random Forest Regression, and a Tkinter-based interface, the system provides an efficient and user-friendly solution for predicting used car prices.
 
 
-![Car Price Prediction](Car Price Prediction.png)
+![car-price-prediction.](car-price-prediction.png)
