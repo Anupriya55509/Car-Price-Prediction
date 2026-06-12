@@ -150,6 +150,13 @@ The project highlights the complete machine learning lifecycle, from data prepro
 
 ---
 
+👩‍💻 Author
+Anupriya Kumari Singh
+
+B.Tech Computer Science Engineering Student
+
+GitHub: https://github.com/Anupriya55509
 ⭐ If you found this project useful, consider giving it a star on GitHub.
+
 
 
