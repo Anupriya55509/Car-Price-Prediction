@@ -10,6 +10,17 @@ Users can enter details such as vehicle age, kilometers driven, mileage, engine 
 
 ---
 
+## 📊 Dataset Source
+
+The dataset used in this project was obtained from a publicly available GitHub repository and consists of **15,000+ used vehicle records**. It contains a wide range of vehicle attributes, including fuel type, transmission type, engine capacity, mileage, maximum power, seating capacity, kilometers driven, vehicle age, and other specifications relevant to car valuation.
+
+The dataset was utilized for data cleaning, preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning model development. These attributes served as key predictors in training the Random Forest Regression model to estimate used car prices accurately.
+
+The use of a real-world dataset enabled the project to simulate practical automobile pricing scenarios and generate meaningful insights into the factors influencing vehicle market value.
+
+
+---
+
 ## 🎯 Objectives
 
 * Predict the selling price of used cars accurately.
